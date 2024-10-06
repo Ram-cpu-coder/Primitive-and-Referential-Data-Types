@@ -60,3 +60,12 @@ console.log(lastchar);
 // and returns the value in true and false form
 const include = para.includes("Ram");
 console.log(include);
+
+
+// -------------------------------search--------------------------------------
+// acts like the index of and last index of 
+
+const search = para.search("Ram");
+console.log(search);
+
+//output of index of given charactar
